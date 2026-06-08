@@ -12,7 +12,7 @@
 .lheader-logo__i[data-v-411717e6] {
     background-size: 100% 100%;
     height: 1.28rem;
-    width: 4rem
+    width: 1.28rem
 }
 
 .lheader-logo[data-v-411717e6] {
@@ -29,7 +29,7 @@
 }
 
 .lheader-title[data-v-411717e6] {
-    color: #E50914;
+    color: #2998FE;
     font-size: .426667rem;
     font-weight: 700;
     line-height: .586667rem
@@ -46,8 +46,8 @@
     font-size: .4rem;
     height: 1.2rem;
     -ms-flex-negative: 0;
-    background: -webkit-gradient(linear, left top, left bottom, from(#fff5d9), to(#E50914));
-    background: linear-gradient(180deg, #fff5d9, #E50914);
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff5d9), to(#2998FE));
+    background: linear-gradient(180deg, #fff5d9, #2998FE);
     -webkit-background-clip: text;
     color: #ffe090;
     flex-shrink: 0;
@@ -115,7 +115,7 @@
 }
 
 .lfooter-title[data-v-4ae7e02b] {
-    color: #E50914;
+    color: #2998FE;
     font-size: .426667rem;
     font-weight: 500;
     line-height: .586667rem

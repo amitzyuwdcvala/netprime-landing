@@ -251,8 +251,8 @@ screen and (min-resolution:2dppx) {
 .lhome-title[data-v-ec5fb5a4] {
     -webkit-background-clip: text;
     background-clip: text;
-    background-image: -webkit-gradient(linear, left top, right top, from(#E50914), to(#E50914));
-    background-image: linear-gradient(90deg, #E50914, #E50914);
+    background-image: -webkit-gradient(linear, left top, right top, from(#2998FE), to(#2998FE));
+    background-image: linear-gradient(90deg, #2998FE, #2998FE);
     background-size: cover;
     color: transparent;
     font-size: .666667rem;
